@@ -1,0 +1,39 @@
+﻿
+@using GridMvc.Html
+
+
+@model IEnumerable<UniversityManagementSystem.Models.Department>
+
+@{
+    ViewBag.Title = "View Department Information";
+}
+
+
+
+
+                      <link href="~/Content/css/style1.css" rel="stylesheet" />
+                      
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-6 col-md-offset-3">
+            <hr />
+
+            <h2 class="header-2">View All Department</h2>
+
+            <hr />
+
+            <p>
+                @Html.Grid(Model).Columns(columns =>
+        {
+            columns.Add(st => st.Code)
+                .Titled("Code");
+            columns.Add(st => st.Name)
+                .Titled("Name");
+
+
+        }).WithPaging(4).Sortable();
+            </p>
+        </div>
+    </div>
+</div>

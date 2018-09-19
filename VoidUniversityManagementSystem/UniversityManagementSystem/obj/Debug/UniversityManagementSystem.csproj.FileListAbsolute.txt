@@ -1,0 +1,730 @@
+C:\Users\mamun\onedrive\documents\visual studio 2013\CodeFirst\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\UniversityManagementSystem.dll.config
+C:\Users\mamun\onedrive\documents\visual studio 2013\CodeFirst\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\UniversityManagementSystem.dll
+C:\Users\mamun\onedrive\documents\visual studio 2013\CodeFirst\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\UniversityManagementSystem.pdb
+C:\Users\mamun\onedrive\documents\visual studio 2013\CodeFirst\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\Antlr3.Runtime.dll
+C:\Users\mamun\onedrive\documents\visual studio 2013\CodeFirst\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\EntityFramework.dll
+C:\Users\mamun\onedrive\documents\visual studio 2013\CodeFirst\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\EntityFramework.SqlServer.dll
+C:\Users\mamun\onedrive\documents\visual studio 2013\CodeFirst\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\mamun\onedrive\documents\visual studio 2013\CodeFirst\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\mamun\onedrive\documents\visual studio 2013\CodeFirst\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\mamun\onedrive\documents\visual studio 2013\CodeFirst\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.dll
+C:\Users\mamun\onedrive\documents\visual studio 2013\CodeFirst\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\mamun\onedrive\documents\visual studio 2013\CodeFirst\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\mamun\onedrive\documents\visual studio 2013\CodeFirst\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.dll
+C:\Users\mamun\onedrive\documents\visual studio 2013\CodeFirst\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\mamun\onedrive\documents\visual studio 2013\CodeFirst\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\mamun\onedrive\documents\visual studio 2013\CodeFirst\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\mamun\onedrive\documents\visual studio 2013\CodeFirst\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\mamun\onedrive\documents\visual studio 2013\CodeFirst\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\mamun\onedrive\documents\visual studio 2013\CodeFirst\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\mamun\onedrive\documents\visual studio 2013\CodeFirst\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\Newtonsoft.Json.dll
+C:\Users\mamun\onedrive\documents\visual studio 2013\CodeFirst\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\Owin.dll
+C:\Users\mamun\onedrive\documents\visual studio 2013\CodeFirst\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Helpers.dll
+C:\Users\mamun\onedrive\documents\visual studio 2013\CodeFirst\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Mvc.dll
+C:\Users\mamun\onedrive\documents\visual studio 2013\CodeFirst\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Optimization.dll
+C:\Users\mamun\onedrive\documents\visual studio 2013\CodeFirst\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Razor.dll
+C:\Users\mamun\onedrive\documents\visual studio 2013\CodeFirst\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.WebPages.Deployment.dll
+C:\Users\mamun\onedrive\documents\visual studio 2013\CodeFirst\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.WebPages.dll
+C:\Users\mamun\onedrive\documents\visual studio 2013\CodeFirst\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.WebPages.Razor.dll
+C:\Users\mamun\onedrive\documents\visual studio 2013\CodeFirst\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\WebGrease.dll
+C:\Users\mamun\onedrive\documents\visual studio 2013\CodeFirst\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Helpers.xml
+C:\Users\mamun\onedrive\documents\visual studio 2013\CodeFirst\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Mvc.xml
+C:\Users\mamun\onedrive\documents\visual studio 2013\CodeFirst\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Optimization.xml
+C:\Users\mamun\onedrive\documents\visual studio 2013\CodeFirst\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Razor.xml
+C:\Users\mamun\onedrive\documents\visual studio 2013\CodeFirst\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.WebPages.xml
+C:\Users\mamun\onedrive\documents\visual studio 2013\CodeFirst\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.WebPages.Deployment.xml
+C:\Users\mamun\onedrive\documents\visual studio 2013\CodeFirst\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.WebPages.Razor.xml
+C:\Users\mamun\onedrive\documents\visual studio 2013\CodeFirst\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\Antlr3.Runtime.pdb
+C:\Users\mamun\onedrive\documents\visual studio 2013\CodeFirst\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\Newtonsoft.Json.xml
+C:\Users\mamun\onedrive\documents\visual studio 2013\CodeFirst\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\EntityFramework.xml
+C:\Users\mamun\onedrive\documents\visual studio 2013\CodeFirst\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\EntityFramework.SqlServer.xml
+C:\Users\mamun\onedrive\documents\visual studio 2013\CodeFirst\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\mamun\onedrive\documents\visual studio 2013\CodeFirst\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\mamun\onedrive\documents\visual studio 2013\CodeFirst\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\mamun\onedrive\documents\visual studio 2013\CodeFirst\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.xml
+C:\Users\mamun\onedrive\documents\visual studio 2013\CodeFirst\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\mamun\onedrive\documents\visual studio 2013\CodeFirst\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.xml
+C:\Users\mamun\onedrive\documents\visual studio 2013\CodeFirst\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\mamun\onedrive\documents\visual studio 2013\CodeFirst\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\mamun\onedrive\documents\visual studio 2013\CodeFirst\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\mamun\onedrive\documents\visual studio 2013\CodeFirst\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\mamun\onedrive\documents\visual studio 2013\CodeFirst\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\mamun\onedrive\documents\visual studio 2013\CodeFirst\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\mamun\onedrive\documents\visual studio 2013\CodeFirst\UniqueUniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.dll
+C:\Users\mamun\onedrive\documents\visual studio 2013\CodeFirst\UniqueUniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.pdb
+C:\Users\mamun\onedrive\documents\visual studio 2013\CodeFirst\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\GridMvc.dll
+C:\Users\mamun\onedrive\documents\visual studio 2013\CodeFirst\UniqueUniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.csprojResolveAssemblyReference.cache
+G:\MVC Project from Suvroto\Final Project\Unique\Unique\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\UniversityManagementSystem.dll.config
+G:\MVC Project from Suvroto\Final Project\Unique\Unique\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\UniversityManagementSystem.dll
+G:\MVC Project from Suvroto\Final Project\Unique\Unique\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\UniversityManagementSystem.pdb
+G:\MVC Project from Suvroto\Final Project\Unique\Unique\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\Antlr3.Runtime.dll
+G:\MVC Project from Suvroto\Final Project\Unique\Unique\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\EntityFramework.dll
+G:\MVC Project from Suvroto\Final Project\Unique\Unique\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\EntityFramework.SqlServer.dll
+G:\MVC Project from Suvroto\Final Project\Unique\Unique\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\GridMvc.dll
+G:\MVC Project from Suvroto\Final Project\Unique\Unique\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.AspNet.Identity.Core.dll
+G:\MVC Project from Suvroto\Final Project\Unique\Unique\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\MVC Project from Suvroto\Final Project\Unique\Unique\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\MVC Project from Suvroto\Final Project\Unique\Unique\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.dll
+G:\MVC Project from Suvroto\Final Project\Unique\Unique\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\MVC Project from Suvroto\Final Project\Unique\Unique\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.Cookies.dll
+G:\MVC Project from Suvroto\Final Project\Unique\Unique\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.dll
+G:\MVC Project from Suvroto\Final Project\Unique\Unique\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.Facebook.dll
+G:\MVC Project from Suvroto\Final Project\Unique\Unique\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.Google.dll
+G:\MVC Project from Suvroto\Final Project\Unique\Unique\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+G:\MVC Project from Suvroto\Final Project\Unique\Unique\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.OAuth.dll
+G:\MVC Project from Suvroto\Final Project\Unique\Unique\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.Twitter.dll
+G:\MVC Project from Suvroto\Final Project\Unique\Unique\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Web.Infrastructure.dll
+G:\MVC Project from Suvroto\Final Project\Unique\Unique\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\Newtonsoft.Json.dll
+G:\MVC Project from Suvroto\Final Project\Unique\Unique\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\Owin.dll
+G:\MVC Project from Suvroto\Final Project\Unique\Unique\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Helpers.dll
+G:\MVC Project from Suvroto\Final Project\Unique\Unique\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Mvc.dll
+G:\MVC Project from Suvroto\Final Project\Unique\Unique\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Optimization.dll
+G:\MVC Project from Suvroto\Final Project\Unique\Unique\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Razor.dll
+G:\MVC Project from Suvroto\Final Project\Unique\Unique\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.WebPages.Deployment.dll
+G:\MVC Project from Suvroto\Final Project\Unique\Unique\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.WebPages.dll
+G:\MVC Project from Suvroto\Final Project\Unique\Unique\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.WebPages.Razor.dll
+G:\MVC Project from Suvroto\Final Project\Unique\Unique\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\WebGrease.dll
+G:\MVC Project from Suvroto\Final Project\Unique\Unique\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\Antlr3.Runtime.pdb
+G:\MVC Project from Suvroto\Final Project\Unique\Unique\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\EntityFramework.xml
+G:\MVC Project from Suvroto\Final Project\Unique\Unique\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\EntityFramework.SqlServer.xml
+G:\MVC Project from Suvroto\Final Project\Unique\Unique\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.AspNet.Identity.Core.xml
+G:\MVC Project from Suvroto\Final Project\Unique\Unique\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\MVC Project from Suvroto\Final Project\Unique\Unique\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\MVC Project from Suvroto\Final Project\Unique\Unique\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.xml
+G:\MVC Project from Suvroto\Final Project\Unique\Unique\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\MVC Project from Suvroto\Final Project\Unique\Unique\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.xml
+G:\MVC Project from Suvroto\Final Project\Unique\Unique\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.Cookies.xml
+G:\MVC Project from Suvroto\Final Project\Unique\Unique\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.Facebook.xml
+G:\MVC Project from Suvroto\Final Project\Unique\Unique\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.Google.xml
+G:\MVC Project from Suvroto\Final Project\Unique\Unique\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\MVC Project from Suvroto\Final Project\Unique\Unique\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.OAuth.xml
+G:\MVC Project from Suvroto\Final Project\Unique\Unique\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.Twitter.xml
+G:\MVC Project from Suvroto\Final Project\Unique\Unique\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\Newtonsoft.Json.xml
+G:\MVC Project from Suvroto\Final Project\Unique\Unique\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Helpers.xml
+G:\MVC Project from Suvroto\Final Project\Unique\Unique\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Mvc.xml
+G:\MVC Project from Suvroto\Final Project\Unique\Unique\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Razor.xml
+G:\MVC Project from Suvroto\Final Project\Unique\Unique\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.WebPages.xml
+G:\MVC Project from Suvroto\Final Project\Unique\Unique\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.WebPages.Deployment.xml
+G:\MVC Project from Suvroto\Final Project\Unique\Unique\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.WebPages.Razor.xml
+G:\MVC Project from Suvroto\Final Project\Unique\Unique\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Optimization.xml
+G:\MVC Project from Suvroto\Final Project\Unique\Unique\UniqueUniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.csprojResolveAssemblyReference.cache
+G:\MVC Project from Suvroto\Final Project\Unique\Unique\UniqueUniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.dll
+G:\MVC Project from Suvroto\Final Project\Unique\Unique\UniqueUniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.pdb
+G:\MVC Project from Suvroto\Final Project\SELECT\1\Void-1\Void-1\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\UniversityManagementSystem.dll.config
+G:\MVC Project from Suvroto\Final Project\SELECT\1\Void-1\Void-1\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\UniversityManagementSystem.dll
+G:\MVC Project from Suvroto\Final Project\SELECT\1\Void-1\Void-1\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\UniversityManagementSystem.pdb
+G:\MVC Project from Suvroto\Final Project\SELECT\1\Void-1\Void-1\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\Antlr3.Runtime.dll
+G:\MVC Project from Suvroto\Final Project\SELECT\1\Void-1\Void-1\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\EntityFramework.dll
+G:\MVC Project from Suvroto\Final Project\SELECT\1\Void-1\Void-1\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\EntityFramework.SqlServer.dll
+G:\MVC Project from Suvroto\Final Project\SELECT\1\Void-1\Void-1\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\GridMvc.dll
+G:\MVC Project from Suvroto\Final Project\SELECT\1\Void-1\Void-1\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.AspNet.Identity.Core.dll
+G:\MVC Project from Suvroto\Final Project\SELECT\1\Void-1\Void-1\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\MVC Project from Suvroto\Final Project\SELECT\1\Void-1\Void-1\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\MVC Project from Suvroto\Final Project\SELECT\1\Void-1\Void-1\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.dll
+G:\MVC Project from Suvroto\Final Project\SELECT\1\Void-1\Void-1\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\MVC Project from Suvroto\Final Project\SELECT\1\Void-1\Void-1\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.Cookies.dll
+G:\MVC Project from Suvroto\Final Project\SELECT\1\Void-1\Void-1\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.dll
+G:\MVC Project from Suvroto\Final Project\SELECT\1\Void-1\Void-1\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.Facebook.dll
+G:\MVC Project from Suvroto\Final Project\SELECT\1\Void-1\Void-1\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.Google.dll
+G:\MVC Project from Suvroto\Final Project\SELECT\1\Void-1\Void-1\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+G:\MVC Project from Suvroto\Final Project\SELECT\1\Void-1\Void-1\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.OAuth.dll
+G:\MVC Project from Suvroto\Final Project\SELECT\1\Void-1\Void-1\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.Twitter.dll
+G:\MVC Project from Suvroto\Final Project\SELECT\1\Void-1\Void-1\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Web.Infrastructure.dll
+G:\MVC Project from Suvroto\Final Project\SELECT\1\Void-1\Void-1\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\Newtonsoft.Json.dll
+G:\MVC Project from Suvroto\Final Project\SELECT\1\Void-1\Void-1\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\Owin.dll
+G:\MVC Project from Suvroto\Final Project\SELECT\1\Void-1\Void-1\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Helpers.dll
+G:\MVC Project from Suvroto\Final Project\SELECT\1\Void-1\Void-1\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Mvc.dll
+G:\MVC Project from Suvroto\Final Project\SELECT\1\Void-1\Void-1\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Optimization.dll
+G:\MVC Project from Suvroto\Final Project\SELECT\1\Void-1\Void-1\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Razor.dll
+G:\MVC Project from Suvroto\Final Project\SELECT\1\Void-1\Void-1\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.WebPages.Deployment.dll
+G:\MVC Project from Suvroto\Final Project\SELECT\1\Void-1\Void-1\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.WebPages.dll
+G:\MVC Project from Suvroto\Final Project\SELECT\1\Void-1\Void-1\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.WebPages.Razor.dll
+G:\MVC Project from Suvroto\Final Project\SELECT\1\Void-1\Void-1\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\WebGrease.dll
+G:\MVC Project from Suvroto\Final Project\SELECT\1\Void-1\Void-1\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\Antlr3.Runtime.pdb
+G:\MVC Project from Suvroto\Final Project\SELECT\1\Void-1\Void-1\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\EntityFramework.xml
+G:\MVC Project from Suvroto\Final Project\SELECT\1\Void-1\Void-1\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\EntityFramework.SqlServer.xml
+G:\MVC Project from Suvroto\Final Project\SELECT\1\Void-1\Void-1\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.AspNet.Identity.Core.xml
+G:\MVC Project from Suvroto\Final Project\SELECT\1\Void-1\Void-1\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\MVC Project from Suvroto\Final Project\SELECT\1\Void-1\Void-1\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\MVC Project from Suvroto\Final Project\SELECT\1\Void-1\Void-1\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.xml
+G:\MVC Project from Suvroto\Final Project\SELECT\1\Void-1\Void-1\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\MVC Project from Suvroto\Final Project\SELECT\1\Void-1\Void-1\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.xml
+G:\MVC Project from Suvroto\Final Project\SELECT\1\Void-1\Void-1\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.Cookies.xml
+G:\MVC Project from Suvroto\Final Project\SELECT\1\Void-1\Void-1\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.Facebook.xml
+G:\MVC Project from Suvroto\Final Project\SELECT\1\Void-1\Void-1\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.Google.xml
+G:\MVC Project from Suvroto\Final Project\SELECT\1\Void-1\Void-1\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\MVC Project from Suvroto\Final Project\SELECT\1\Void-1\Void-1\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.OAuth.xml
+G:\MVC Project from Suvroto\Final Project\SELECT\1\Void-1\Void-1\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.Twitter.xml
+G:\MVC Project from Suvroto\Final Project\SELECT\1\Void-1\Void-1\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\Newtonsoft.Json.xml
+G:\MVC Project from Suvroto\Final Project\SELECT\1\Void-1\Void-1\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Helpers.xml
+G:\MVC Project from Suvroto\Final Project\SELECT\1\Void-1\Void-1\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Mvc.xml
+G:\MVC Project from Suvroto\Final Project\SELECT\1\Void-1\Void-1\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Razor.xml
+G:\MVC Project from Suvroto\Final Project\SELECT\1\Void-1\Void-1\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.WebPages.xml
+G:\MVC Project from Suvroto\Final Project\SELECT\1\Void-1\Void-1\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.WebPages.Deployment.xml
+G:\MVC Project from Suvroto\Final Project\SELECT\1\Void-1\Void-1\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.WebPages.Razor.xml
+G:\MVC Project from Suvroto\Final Project\SELECT\1\Void-1\Void-1\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Optimization.xml
+G:\MVC Project from Suvroto\Final Project\SELECT\1\Void-1\Void-1\UniqueUniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.csprojResolveAssemblyReference.cache
+G:\MVC Project from Suvroto\Final Project\SELECT\1\Void-1\Void-1\UniqueUniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.dll
+G:\MVC Project from Suvroto\Final Project\SELECT\1\Void-1\Void-1\UniqueUniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.pdb
+G:\MVC Project from Suvroto\Final Project\SELECT\Select-1\Void-1\Void-1\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\UniversityManagementSystem.dll.config
+G:\MVC Project from Suvroto\Final Project\SELECT\Select-1\Void-1\Void-1\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\UniversityManagementSystem.dll
+G:\MVC Project from Suvroto\Final Project\SELECT\Select-1\Void-1\Void-1\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\UniversityManagementSystem.pdb
+G:\MVC Project from Suvroto\Final Project\SELECT\Select-1\Void-1\Void-1\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\Antlr3.Runtime.dll
+G:\MVC Project from Suvroto\Final Project\SELECT\Select-1\Void-1\Void-1\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\EntityFramework.dll
+G:\MVC Project from Suvroto\Final Project\SELECT\Select-1\Void-1\Void-1\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\EntityFramework.SqlServer.dll
+G:\MVC Project from Suvroto\Final Project\SELECT\Select-1\Void-1\Void-1\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\GridMvc.dll
+G:\MVC Project from Suvroto\Final Project\SELECT\Select-1\Void-1\Void-1\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.AspNet.Identity.Core.dll
+G:\MVC Project from Suvroto\Final Project\SELECT\Select-1\Void-1\Void-1\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\MVC Project from Suvroto\Final Project\SELECT\Select-1\Void-1\Void-1\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\MVC Project from Suvroto\Final Project\SELECT\Select-1\Void-1\Void-1\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.dll
+G:\MVC Project from Suvroto\Final Project\SELECT\Select-1\Void-1\Void-1\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\MVC Project from Suvroto\Final Project\SELECT\Select-1\Void-1\Void-1\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.Cookies.dll
+G:\MVC Project from Suvroto\Final Project\SELECT\Select-1\Void-1\Void-1\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.dll
+G:\MVC Project from Suvroto\Final Project\SELECT\Select-1\Void-1\Void-1\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.Facebook.dll
+G:\MVC Project from Suvroto\Final Project\SELECT\Select-1\Void-1\Void-1\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.Google.dll
+G:\MVC Project from Suvroto\Final Project\SELECT\Select-1\Void-1\Void-1\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+G:\MVC Project from Suvroto\Final Project\SELECT\Select-1\Void-1\Void-1\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.OAuth.dll
+G:\MVC Project from Suvroto\Final Project\SELECT\Select-1\Void-1\Void-1\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.Twitter.dll
+G:\MVC Project from Suvroto\Final Project\SELECT\Select-1\Void-1\Void-1\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Web.Infrastructure.dll
+G:\MVC Project from Suvroto\Final Project\SELECT\Select-1\Void-1\Void-1\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\Newtonsoft.Json.dll
+G:\MVC Project from Suvroto\Final Project\SELECT\Select-1\Void-1\Void-1\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\Owin.dll
+G:\MVC Project from Suvroto\Final Project\SELECT\Select-1\Void-1\Void-1\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Helpers.dll
+G:\MVC Project from Suvroto\Final Project\SELECT\Select-1\Void-1\Void-1\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Mvc.dll
+G:\MVC Project from Suvroto\Final Project\SELECT\Select-1\Void-1\Void-1\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Optimization.dll
+G:\MVC Project from Suvroto\Final Project\SELECT\Select-1\Void-1\Void-1\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Razor.dll
+G:\MVC Project from Suvroto\Final Project\SELECT\Select-1\Void-1\Void-1\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.WebPages.Deployment.dll
+G:\MVC Project from Suvroto\Final Project\SELECT\Select-1\Void-1\Void-1\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.WebPages.dll
+G:\MVC Project from Suvroto\Final Project\SELECT\Select-1\Void-1\Void-1\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.WebPages.Razor.dll
+G:\MVC Project from Suvroto\Final Project\SELECT\Select-1\Void-1\Void-1\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\WebGrease.dll
+G:\MVC Project from Suvroto\Final Project\SELECT\Select-1\Void-1\Void-1\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\Antlr3.Runtime.pdb
+G:\MVC Project from Suvroto\Final Project\SELECT\Select-1\Void-1\Void-1\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\EntityFramework.xml
+G:\MVC Project from Suvroto\Final Project\SELECT\Select-1\Void-1\Void-1\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\EntityFramework.SqlServer.xml
+G:\MVC Project from Suvroto\Final Project\SELECT\Select-1\Void-1\Void-1\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.AspNet.Identity.Core.xml
+G:\MVC Project from Suvroto\Final Project\SELECT\Select-1\Void-1\Void-1\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\MVC Project from Suvroto\Final Project\SELECT\Select-1\Void-1\Void-1\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\MVC Project from Suvroto\Final Project\SELECT\Select-1\Void-1\Void-1\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.xml
+G:\MVC Project from Suvroto\Final Project\SELECT\Select-1\Void-1\Void-1\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\MVC Project from Suvroto\Final Project\SELECT\Select-1\Void-1\Void-1\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.xml
+G:\MVC Project from Suvroto\Final Project\SELECT\Select-1\Void-1\Void-1\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.Cookies.xml
+G:\MVC Project from Suvroto\Final Project\SELECT\Select-1\Void-1\Void-1\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.Facebook.xml
+G:\MVC Project from Suvroto\Final Project\SELECT\Select-1\Void-1\Void-1\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.Google.xml
+G:\MVC Project from Suvroto\Final Project\SELECT\Select-1\Void-1\Void-1\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\MVC Project from Suvroto\Final Project\SELECT\Select-1\Void-1\Void-1\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.OAuth.xml
+G:\MVC Project from Suvroto\Final Project\SELECT\Select-1\Void-1\Void-1\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.Twitter.xml
+G:\MVC Project from Suvroto\Final Project\SELECT\Select-1\Void-1\Void-1\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\Newtonsoft.Json.xml
+G:\MVC Project from Suvroto\Final Project\SELECT\Select-1\Void-1\Void-1\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Helpers.xml
+G:\MVC Project from Suvroto\Final Project\SELECT\Select-1\Void-1\Void-1\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Mvc.xml
+G:\MVC Project from Suvroto\Final Project\SELECT\Select-1\Void-1\Void-1\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Razor.xml
+G:\MVC Project from Suvroto\Final Project\SELECT\Select-1\Void-1\Void-1\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.WebPages.xml
+G:\MVC Project from Suvroto\Final Project\SELECT\Select-1\Void-1\Void-1\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.WebPages.Deployment.xml
+G:\MVC Project from Suvroto\Final Project\SELECT\Select-1\Void-1\Void-1\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.WebPages.Razor.xml
+G:\MVC Project from Suvroto\Final Project\SELECT\Select-1\Void-1\Void-1\UniqueUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Optimization.xml
+G:\MVC Project from Suvroto\Final Project\SELECT\Select-1\Void-1\Void-1\UniqueUniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.csprojResolveAssemblyReference.cache
+G:\MVC Project from Suvroto\Final Project\SELECT\Select-1\Void-1\Void-1\UniqueUniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.dll
+G:\MVC Project from Suvroto\Final Project\SELECT\Select-1\Void-1\Void-1\UniqueUniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.pdb
+G:\MVC Project from Suvroto\Final Project\SELECT\Select-1\Void-1\Void-1\VoidUniversityManagementSystem\UniversityManagementSystem\bin\UniversityManagementSystem.dll.config
+G:\MVC Project from Suvroto\Final Project\SELECT\Select-1\Void-1\Void-1\VoidUniversityManagementSystem\UniversityManagementSystem\bin\UniversityManagementSystem.dll
+G:\MVC Project from Suvroto\Final Project\SELECT\Select-1\Void-1\Void-1\VoidUniversityManagementSystem\UniversityManagementSystem\bin\UniversityManagementSystem.pdb
+G:\MVC Project from Suvroto\Final Project\SELECT\Select-1\Void-1\Void-1\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Antlr3.Runtime.dll
+G:\MVC Project from Suvroto\Final Project\SELECT\Select-1\Void-1\Void-1\VoidUniversityManagementSystem\UniversityManagementSystem\bin\EntityFramework.dll
+G:\MVC Project from Suvroto\Final Project\SELECT\Select-1\Void-1\Void-1\VoidUniversityManagementSystem\UniversityManagementSystem\bin\EntityFramework.SqlServer.dll
+G:\MVC Project from Suvroto\Final Project\SELECT\Select-1\Void-1\Void-1\VoidUniversityManagementSystem\UniversityManagementSystem\bin\GridMvc.dll
+G:\MVC Project from Suvroto\Final Project\SELECT\Select-1\Void-1\Void-1\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.AspNet.Identity.Core.dll
+G:\MVC Project from Suvroto\Final Project\SELECT\Select-1\Void-1\Void-1\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\MVC Project from Suvroto\Final Project\SELECT\Select-1\Void-1\Void-1\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\MVC Project from Suvroto\Final Project\SELECT\Select-1\Void-1\Void-1\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.dll
+G:\MVC Project from Suvroto\Final Project\SELECT\Select-1\Void-1\Void-1\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\MVC Project from Suvroto\Final Project\SELECT\Select-1\Void-1\Void-1\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.Cookies.dll
+G:\MVC Project from Suvroto\Final Project\SELECT\Select-1\Void-1\Void-1\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.dll
+G:\MVC Project from Suvroto\Final Project\SELECT\Select-1\Void-1\Void-1\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.Facebook.dll
+G:\MVC Project from Suvroto\Final Project\SELECT\Select-1\Void-1\Void-1\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.Google.dll
+G:\MVC Project from Suvroto\Final Project\SELECT\Select-1\Void-1\Void-1\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+G:\MVC Project from Suvroto\Final Project\SELECT\Select-1\Void-1\Void-1\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.OAuth.dll
+G:\MVC Project from Suvroto\Final Project\SELECT\Select-1\Void-1\Void-1\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.Twitter.dll
+G:\MVC Project from Suvroto\Final Project\SELECT\Select-1\Void-1\Void-1\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Web.Infrastructure.dll
+G:\MVC Project from Suvroto\Final Project\SELECT\Select-1\Void-1\Void-1\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Newtonsoft.Json.dll
+G:\MVC Project from Suvroto\Final Project\SELECT\Select-1\Void-1\Void-1\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Owin.dll
+G:\MVC Project from Suvroto\Final Project\SELECT\Select-1\Void-1\Void-1\VoidUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Helpers.dll
+G:\MVC Project from Suvroto\Final Project\SELECT\Select-1\Void-1\Void-1\VoidUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Mvc.dll
+G:\MVC Project from Suvroto\Final Project\SELECT\Select-1\Void-1\Void-1\VoidUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Optimization.dll
+G:\MVC Project from Suvroto\Final Project\SELECT\Select-1\Void-1\Void-1\VoidUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Razor.dll
+G:\MVC Project from Suvroto\Final Project\SELECT\Select-1\Void-1\Void-1\VoidUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.WebPages.Deployment.dll
+G:\MVC Project from Suvroto\Final Project\SELECT\Select-1\Void-1\Void-1\VoidUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.WebPages.dll
+G:\MVC Project from Suvroto\Final Project\SELECT\Select-1\Void-1\Void-1\VoidUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.WebPages.Razor.dll
+G:\MVC Project from Suvroto\Final Project\SELECT\Select-1\Void-1\Void-1\VoidUniversityManagementSystem\UniversityManagementSystem\bin\WebGrease.dll
+G:\MVC Project from Suvroto\Final Project\SELECT\Select-1\Void-1\Void-1\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Antlr3.Runtime.pdb
+G:\MVC Project from Suvroto\Final Project\SELECT\Select-1\Void-1\Void-1\VoidUniversityManagementSystem\UniversityManagementSystem\bin\EntityFramework.xml
+G:\MVC Project from Suvroto\Final Project\SELECT\Select-1\Void-1\Void-1\VoidUniversityManagementSystem\UniversityManagementSystem\bin\EntityFramework.SqlServer.xml
+G:\MVC Project from Suvroto\Final Project\SELECT\Select-1\Void-1\Void-1\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.AspNet.Identity.Core.xml
+G:\MVC Project from Suvroto\Final Project\SELECT\Select-1\Void-1\Void-1\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\MVC Project from Suvroto\Final Project\SELECT\Select-1\Void-1\Void-1\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\MVC Project from Suvroto\Final Project\SELECT\Select-1\Void-1\Void-1\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.xml
+G:\MVC Project from Suvroto\Final Project\SELECT\Select-1\Void-1\Void-1\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\MVC Project from Suvroto\Final Project\SELECT\Select-1\Void-1\Void-1\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.xml
+G:\MVC Project from Suvroto\Final Project\SELECT\Select-1\Void-1\Void-1\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.Cookies.xml
+G:\MVC Project from Suvroto\Final Project\SELECT\Select-1\Void-1\Void-1\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.Facebook.xml
+G:\MVC Project from Suvroto\Final Project\SELECT\Select-1\Void-1\Void-1\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.Google.xml
+G:\MVC Project from Suvroto\Final Project\SELECT\Select-1\Void-1\Void-1\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\MVC Project from Suvroto\Final Project\SELECT\Select-1\Void-1\Void-1\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.OAuth.xml
+G:\MVC Project from Suvroto\Final Project\SELECT\Select-1\Void-1\Void-1\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.Twitter.xml
+G:\MVC Project from Suvroto\Final Project\SELECT\Select-1\Void-1\Void-1\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Newtonsoft.Json.xml
+G:\MVC Project from Suvroto\Final Project\SELECT\Select-1\Void-1\Void-1\VoidUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Helpers.xml
+G:\MVC Project from Suvroto\Final Project\SELECT\Select-1\Void-1\Void-1\VoidUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Mvc.xml
+G:\MVC Project from Suvroto\Final Project\SELECT\Select-1\Void-1\Void-1\VoidUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Razor.xml
+G:\MVC Project from Suvroto\Final Project\SELECT\Select-1\Void-1\Void-1\VoidUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.WebPages.xml
+G:\MVC Project from Suvroto\Final Project\SELECT\Select-1\Void-1\Void-1\VoidUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.WebPages.Deployment.xml
+G:\MVC Project from Suvroto\Final Project\SELECT\Select-1\Void-1\Void-1\VoidUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.WebPages.Razor.xml
+G:\MVC Project from Suvroto\Final Project\SELECT\Select-1\Void-1\Void-1\VoidUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Optimization.xml
+G:\MVC Project from Suvroto\Final Project\SELECT\Select-1\Void-1\Void-1\VoidUniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.csprojResolveAssemblyReference.cache
+G:\MVC Project from Suvroto\Final Project\SELECT\Select-1\Void-1\Void-1\VoidUniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.dll
+G:\MVC Project from Suvroto\Final Project\SELECT\Select-1\Void-1\Void-1\VoidUniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.pdb
+G:\MVC Project from Suvroto\Final Project\SELECT\Select-1\Void-1\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\UniversityManagementSystem.dll.config
+G:\MVC Project from Suvroto\Final Project\SELECT\Select-1\Void-1\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\UniversityManagementSystem.dll
+G:\MVC Project from Suvroto\Final Project\SELECT\Select-1\Void-1\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\UniversityManagementSystem.pdb
+G:\MVC Project from Suvroto\Final Project\SELECT\Select-1\Void-1\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Antlr3.Runtime.dll
+G:\MVC Project from Suvroto\Final Project\SELECT\Select-1\Void-1\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\EntityFramework.dll
+G:\MVC Project from Suvroto\Final Project\SELECT\Select-1\Void-1\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\EntityFramework.SqlServer.dll
+G:\MVC Project from Suvroto\Final Project\SELECT\Select-1\Void-1\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\GridMvc.dll
+G:\MVC Project from Suvroto\Final Project\SELECT\Select-1\Void-1\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.AspNet.Identity.Core.dll
+G:\MVC Project from Suvroto\Final Project\SELECT\Select-1\Void-1\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\MVC Project from Suvroto\Final Project\SELECT\Select-1\Void-1\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\MVC Project from Suvroto\Final Project\SELECT\Select-1\Void-1\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.dll
+G:\MVC Project from Suvroto\Final Project\SELECT\Select-1\Void-1\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\MVC Project from Suvroto\Final Project\SELECT\Select-1\Void-1\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.Cookies.dll
+G:\MVC Project from Suvroto\Final Project\SELECT\Select-1\Void-1\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.dll
+G:\MVC Project from Suvroto\Final Project\SELECT\Select-1\Void-1\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.Facebook.dll
+G:\MVC Project from Suvroto\Final Project\SELECT\Select-1\Void-1\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.Google.dll
+G:\MVC Project from Suvroto\Final Project\SELECT\Select-1\Void-1\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+G:\MVC Project from Suvroto\Final Project\SELECT\Select-1\Void-1\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.OAuth.dll
+G:\MVC Project from Suvroto\Final Project\SELECT\Select-1\Void-1\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.Twitter.dll
+G:\MVC Project from Suvroto\Final Project\SELECT\Select-1\Void-1\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Web.Infrastructure.dll
+G:\MVC Project from Suvroto\Final Project\SELECT\Select-1\Void-1\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Newtonsoft.Json.dll
+G:\MVC Project from Suvroto\Final Project\SELECT\Select-1\Void-1\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Owin.dll
+G:\MVC Project from Suvroto\Final Project\SELECT\Select-1\Void-1\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Helpers.dll
+G:\MVC Project from Suvroto\Final Project\SELECT\Select-1\Void-1\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Mvc.dll
+G:\MVC Project from Suvroto\Final Project\SELECT\Select-1\Void-1\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Optimization.dll
+G:\MVC Project from Suvroto\Final Project\SELECT\Select-1\Void-1\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Razor.dll
+G:\MVC Project from Suvroto\Final Project\SELECT\Select-1\Void-1\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.WebPages.Deployment.dll
+G:\MVC Project from Suvroto\Final Project\SELECT\Select-1\Void-1\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.WebPages.dll
+G:\MVC Project from Suvroto\Final Project\SELECT\Select-1\Void-1\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.WebPages.Razor.dll
+G:\MVC Project from Suvroto\Final Project\SELECT\Select-1\Void-1\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\WebGrease.dll
+G:\MVC Project from Suvroto\Final Project\SELECT\Select-1\Void-1\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Antlr3.Runtime.pdb
+G:\MVC Project from Suvroto\Final Project\SELECT\Select-1\Void-1\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\EntityFramework.xml
+G:\MVC Project from Suvroto\Final Project\SELECT\Select-1\Void-1\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\EntityFramework.SqlServer.xml
+G:\MVC Project from Suvroto\Final Project\SELECT\Select-1\Void-1\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.AspNet.Identity.Core.xml
+G:\MVC Project from Suvroto\Final Project\SELECT\Select-1\Void-1\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\MVC Project from Suvroto\Final Project\SELECT\Select-1\Void-1\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\MVC Project from Suvroto\Final Project\SELECT\Select-1\Void-1\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.xml
+G:\MVC Project from Suvroto\Final Project\SELECT\Select-1\Void-1\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\MVC Project from Suvroto\Final Project\SELECT\Select-1\Void-1\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.xml
+G:\MVC Project from Suvroto\Final Project\SELECT\Select-1\Void-1\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.Cookies.xml
+G:\MVC Project from Suvroto\Final Project\SELECT\Select-1\Void-1\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.Facebook.xml
+G:\MVC Project from Suvroto\Final Project\SELECT\Select-1\Void-1\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.Google.xml
+G:\MVC Project from Suvroto\Final Project\SELECT\Select-1\Void-1\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\MVC Project from Suvroto\Final Project\SELECT\Select-1\Void-1\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.OAuth.xml
+G:\MVC Project from Suvroto\Final Project\SELECT\Select-1\Void-1\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.Twitter.xml
+G:\MVC Project from Suvroto\Final Project\SELECT\Select-1\Void-1\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Newtonsoft.Json.xml
+G:\MVC Project from Suvroto\Final Project\SELECT\Select-1\Void-1\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Helpers.xml
+G:\MVC Project from Suvroto\Final Project\SELECT\Select-1\Void-1\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Mvc.xml
+G:\MVC Project from Suvroto\Final Project\SELECT\Select-1\Void-1\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Razor.xml
+G:\MVC Project from Suvroto\Final Project\SELECT\Select-1\Void-1\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.WebPages.xml
+G:\MVC Project from Suvroto\Final Project\SELECT\Select-1\Void-1\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.WebPages.Deployment.xml
+G:\MVC Project from Suvroto\Final Project\SELECT\Select-1\Void-1\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.WebPages.Razor.xml
+G:\MVC Project from Suvroto\Final Project\SELECT\Select-1\Void-1\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Optimization.xml
+G:\MVC Project from Suvroto\Final Project\SELECT\Select-1\Void-1\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.csprojResolveAssemblyReference.cache
+G:\MVC Project from Suvroto\Final Project\SELECT\Select-1\Void-1\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.dll
+G:\MVC Project from Suvroto\Final Project\SELECT\Select-1\Void-1\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.pdb
+G:\MVC Project from Suvroto\Final Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\UniversityManagementSystem.dll.config
+G:\MVC Project from Suvroto\Final Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\UniversityManagementSystem.dll
+G:\MVC Project from Suvroto\Final Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\UniversityManagementSystem.pdb
+G:\MVC Project from Suvroto\Final Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Antlr3.Runtime.dll
+G:\MVC Project from Suvroto\Final Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\EntityFramework.dll
+G:\MVC Project from Suvroto\Final Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\EntityFramework.SqlServer.dll
+G:\MVC Project from Suvroto\Final Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\GridMvc.dll
+G:\MVC Project from Suvroto\Final Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.AspNet.Identity.Core.dll
+G:\MVC Project from Suvroto\Final Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\MVC Project from Suvroto\Final Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\MVC Project from Suvroto\Final Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.dll
+G:\MVC Project from Suvroto\Final Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\MVC Project from Suvroto\Final Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.Cookies.dll
+G:\MVC Project from Suvroto\Final Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.dll
+G:\MVC Project from Suvroto\Final Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.Facebook.dll
+G:\MVC Project from Suvroto\Final Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.Google.dll
+G:\MVC Project from Suvroto\Final Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+G:\MVC Project from Suvroto\Final Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.OAuth.dll
+G:\MVC Project from Suvroto\Final Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.Twitter.dll
+G:\MVC Project from Suvroto\Final Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Web.Infrastructure.dll
+G:\MVC Project from Suvroto\Final Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Newtonsoft.Json.dll
+G:\MVC Project from Suvroto\Final Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Owin.dll
+G:\MVC Project from Suvroto\Final Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Helpers.dll
+G:\MVC Project from Suvroto\Final Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Mvc.dll
+G:\MVC Project from Suvroto\Final Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Optimization.dll
+G:\MVC Project from Suvroto\Final Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Razor.dll
+G:\MVC Project from Suvroto\Final Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.WebPages.Deployment.dll
+G:\MVC Project from Suvroto\Final Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.WebPages.dll
+G:\MVC Project from Suvroto\Final Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.WebPages.Razor.dll
+G:\MVC Project from Suvroto\Final Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\WebGrease.dll
+G:\MVC Project from Suvroto\Final Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Antlr3.Runtime.pdb
+G:\MVC Project from Suvroto\Final Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\EntityFramework.xml
+G:\MVC Project from Suvroto\Final Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\EntityFramework.SqlServer.xml
+G:\MVC Project from Suvroto\Final Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.AspNet.Identity.Core.xml
+G:\MVC Project from Suvroto\Final Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\MVC Project from Suvroto\Final Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\MVC Project from Suvroto\Final Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.xml
+G:\MVC Project from Suvroto\Final Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\MVC Project from Suvroto\Final Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.xml
+G:\MVC Project from Suvroto\Final Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.Cookies.xml
+G:\MVC Project from Suvroto\Final Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.Facebook.xml
+G:\MVC Project from Suvroto\Final Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.Google.xml
+G:\MVC Project from Suvroto\Final Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\MVC Project from Suvroto\Final Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.OAuth.xml
+G:\MVC Project from Suvroto\Final Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.Twitter.xml
+G:\MVC Project from Suvroto\Final Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Newtonsoft.Json.xml
+G:\MVC Project from Suvroto\Final Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Helpers.xml
+G:\MVC Project from Suvroto\Final Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Mvc.xml
+G:\MVC Project from Suvroto\Final Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Razor.xml
+G:\MVC Project from Suvroto\Final Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.WebPages.xml
+G:\MVC Project from Suvroto\Final Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.WebPages.Deployment.xml
+G:\MVC Project from Suvroto\Final Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.WebPages.Razor.xml
+G:\MVC Project from Suvroto\Final Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Optimization.xml
+G:\MVC Project from Suvroto\Final Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.csprojResolveAssemblyReference.cache
+G:\MVC Project from Suvroto\Final Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.dll
+G:\MVC Project from Suvroto\Final Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.pdb
+G:\BITM (BASIS)\Final Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\UniversityManagementSystem.dll.config
+G:\BITM (BASIS)\Final Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\UniversityManagementSystem.dll
+G:\BITM (BASIS)\Final Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\UniversityManagementSystem.pdb
+G:\BITM (BASIS)\Final Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Antlr3.Runtime.dll
+G:\BITM (BASIS)\Final Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\EntityFramework.dll
+G:\BITM (BASIS)\Final Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\EntityFramework.SqlServer.dll
+G:\BITM (BASIS)\Final Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\GridMvc.dll
+G:\BITM (BASIS)\Final Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.AspNet.Identity.Core.dll
+G:\BITM (BASIS)\Final Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\BITM (BASIS)\Final Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\BITM (BASIS)\Final Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.dll
+G:\BITM (BASIS)\Final Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\BITM (BASIS)\Final Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.Cookies.dll
+G:\BITM (BASIS)\Final Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.dll
+G:\BITM (BASIS)\Final Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.Facebook.dll
+G:\BITM (BASIS)\Final Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.Google.dll
+G:\BITM (BASIS)\Final Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+G:\BITM (BASIS)\Final Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.OAuth.dll
+G:\BITM (BASIS)\Final Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.Twitter.dll
+G:\BITM (BASIS)\Final Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Web.Infrastructure.dll
+G:\BITM (BASIS)\Final Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Newtonsoft.Json.dll
+G:\BITM (BASIS)\Final Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Owin.dll
+G:\BITM (BASIS)\Final Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Helpers.dll
+G:\BITM (BASIS)\Final Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Mvc.dll
+G:\BITM (BASIS)\Final Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Optimization.dll
+G:\BITM (BASIS)\Final Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Razor.dll
+G:\BITM (BASIS)\Final Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.WebPages.Deployment.dll
+G:\BITM (BASIS)\Final Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.WebPages.dll
+G:\BITM (BASIS)\Final Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.WebPages.Razor.dll
+G:\BITM (BASIS)\Final Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\WebGrease.dll
+G:\BITM (BASIS)\Final Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Antlr3.Runtime.pdb
+G:\BITM (BASIS)\Final Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\EntityFramework.xml
+G:\BITM (BASIS)\Final Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\EntityFramework.SqlServer.xml
+G:\BITM (BASIS)\Final Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.AspNet.Identity.Core.xml
+G:\BITM (BASIS)\Final Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\BITM (BASIS)\Final Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\BITM (BASIS)\Final Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.xml
+G:\BITM (BASIS)\Final Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\BITM (BASIS)\Final Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.xml
+G:\BITM (BASIS)\Final Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.Cookies.xml
+G:\BITM (BASIS)\Final Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.Facebook.xml
+G:\BITM (BASIS)\Final Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.Google.xml
+G:\BITM (BASIS)\Final Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\BITM (BASIS)\Final Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.OAuth.xml
+G:\BITM (BASIS)\Final Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.Twitter.xml
+G:\BITM (BASIS)\Final Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Newtonsoft.Json.xml
+G:\BITM (BASIS)\Final Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Helpers.xml
+G:\BITM (BASIS)\Final Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Mvc.xml
+G:\BITM (BASIS)\Final Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Razor.xml
+G:\BITM (BASIS)\Final Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.WebPages.xml
+G:\BITM (BASIS)\Final Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.WebPages.Deployment.xml
+G:\BITM (BASIS)\Final Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.WebPages.Razor.xml
+G:\BITM (BASIS)\Final Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Optimization.xml
+G:\BITM (BASIS)\Final Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.csprojResolveAssemblyReference.cache
+G:\BITM (BASIS)\Final Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.dll
+G:\BITM (BASIS)\Final Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.pdb
+G:\Final Project BITM\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\UniversityManagementSystem.dll.config
+G:\Final Project BITM\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\UniversityManagementSystem.dll
+G:\Final Project BITM\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\UniversityManagementSystem.pdb
+G:\Final Project BITM\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Antlr3.Runtime.dll
+G:\Final Project BITM\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\EntityFramework.dll
+G:\Final Project BITM\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\EntityFramework.SqlServer.dll
+G:\Final Project BITM\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\GridMvc.dll
+G:\Final Project BITM\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.AspNet.Identity.Core.dll
+G:\Final Project BITM\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\Final Project BITM\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\Final Project BITM\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.dll
+G:\Final Project BITM\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\Final Project BITM\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.Cookies.dll
+G:\Final Project BITM\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.dll
+G:\Final Project BITM\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.Facebook.dll
+G:\Final Project BITM\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.Google.dll
+G:\Final Project BITM\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+G:\Final Project BITM\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.OAuth.dll
+G:\Final Project BITM\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.Twitter.dll
+G:\Final Project BITM\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Web.Infrastructure.dll
+G:\Final Project BITM\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Newtonsoft.Json.dll
+G:\Final Project BITM\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Owin.dll
+G:\Final Project BITM\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Helpers.dll
+G:\Final Project BITM\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Mvc.dll
+G:\Final Project BITM\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Optimization.dll
+G:\Final Project BITM\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Razor.dll
+G:\Final Project BITM\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.WebPages.Deployment.dll
+G:\Final Project BITM\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.WebPages.dll
+G:\Final Project BITM\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.WebPages.Razor.dll
+G:\Final Project BITM\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\WebGrease.dll
+G:\Final Project BITM\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Antlr3.Runtime.pdb
+G:\Final Project BITM\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\EntityFramework.xml
+G:\Final Project BITM\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\EntityFramework.SqlServer.xml
+G:\Final Project BITM\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.AspNet.Identity.Core.xml
+G:\Final Project BITM\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\Final Project BITM\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\Final Project BITM\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.xml
+G:\Final Project BITM\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\Final Project BITM\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.xml
+G:\Final Project BITM\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.Cookies.xml
+G:\Final Project BITM\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.Facebook.xml
+G:\Final Project BITM\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.Google.xml
+G:\Final Project BITM\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\Final Project BITM\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.OAuth.xml
+G:\Final Project BITM\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.Twitter.xml
+G:\Final Project BITM\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Newtonsoft.Json.xml
+G:\Final Project BITM\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Helpers.xml
+G:\Final Project BITM\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Mvc.xml
+G:\Final Project BITM\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Razor.xml
+G:\Final Project BITM\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.WebPages.xml
+G:\Final Project BITM\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.WebPages.Deployment.xml
+G:\Final Project BITM\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.WebPages.Razor.xml
+G:\Final Project BITM\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Optimization.xml
+G:\Final Project BITM\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.csprojResolveAssemblyReference.cache
+G:\Final Project BITM\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.dll
+G:\Final Project BITM\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.pdb
+G:\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\UniversityManagementSystem.dll.config
+G:\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\UniversityManagementSystem.dll
+G:\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\UniversityManagementSystem.pdb
+G:\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Antlr3.Runtime.dll
+G:\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\EntityFramework.dll
+G:\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\EntityFramework.SqlServer.dll
+G:\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\GridMvc.dll
+G:\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.AspNet.Identity.Core.dll
+G:\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.dll
+G:\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.Cookies.dll
+G:\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.dll
+G:\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.Facebook.dll
+G:\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.Google.dll
+G:\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+G:\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.OAuth.dll
+G:\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.Twitter.dll
+G:\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Web.Infrastructure.dll
+G:\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Newtonsoft.Json.dll
+G:\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Owin.dll
+G:\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Helpers.dll
+G:\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Mvc.dll
+G:\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Optimization.dll
+G:\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Razor.dll
+G:\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.WebPages.Deployment.dll
+G:\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.WebPages.dll
+G:\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.WebPages.Razor.dll
+G:\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\WebGrease.dll
+G:\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Antlr3.Runtime.pdb
+G:\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\EntityFramework.xml
+G:\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\EntityFramework.SqlServer.xml
+G:\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.AspNet.Identity.Core.xml
+G:\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.xml
+G:\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.xml
+G:\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.Cookies.xml
+G:\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.Facebook.xml
+G:\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.Google.xml
+G:\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.OAuth.xml
+G:\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.Twitter.xml
+G:\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Newtonsoft.Json.xml
+G:\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Helpers.xml
+G:\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Mvc.xml
+G:\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Razor.xml
+G:\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.WebPages.xml
+G:\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.WebPages.Deployment.xml
+G:\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.WebPages.Razor.xml
+G:\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Optimization.xml
+G:\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.csprojResolveAssemblyReference.cache
+G:\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.dll
+G:\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.pdb
+G:\BITM (BASIS)\Final Project BITM\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\UniversityManagementSystem.dll.config
+G:\BITM (BASIS)\Final Project BITM\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\UniversityManagementSystem.dll
+G:\BITM (BASIS)\Final Project BITM\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\UniversityManagementSystem.pdb
+G:\BITM (BASIS)\Final Project BITM\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Antlr3.Runtime.dll
+G:\BITM (BASIS)\Final Project BITM\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\EntityFramework.dll
+G:\BITM (BASIS)\Final Project BITM\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\EntityFramework.SqlServer.dll
+G:\BITM (BASIS)\Final Project BITM\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\GridMvc.dll
+G:\BITM (BASIS)\Final Project BITM\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.AspNet.Identity.Core.dll
+G:\BITM (BASIS)\Final Project BITM\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\BITM (BASIS)\Final Project BITM\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\BITM (BASIS)\Final Project BITM\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.dll
+G:\BITM (BASIS)\Final Project BITM\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\BITM (BASIS)\Final Project BITM\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.Cookies.dll
+G:\BITM (BASIS)\Final Project BITM\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.dll
+G:\BITM (BASIS)\Final Project BITM\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.Facebook.dll
+G:\BITM (BASIS)\Final Project BITM\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.Google.dll
+G:\BITM (BASIS)\Final Project BITM\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+G:\BITM (BASIS)\Final Project BITM\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.OAuth.dll
+G:\BITM (BASIS)\Final Project BITM\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.Twitter.dll
+G:\BITM (BASIS)\Final Project BITM\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Web.Infrastructure.dll
+G:\BITM (BASIS)\Final Project BITM\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Newtonsoft.Json.dll
+G:\BITM (BASIS)\Final Project BITM\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Owin.dll
+G:\BITM (BASIS)\Final Project BITM\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Helpers.dll
+G:\BITM (BASIS)\Final Project BITM\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Mvc.dll
+G:\BITM (BASIS)\Final Project BITM\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Optimization.dll
+G:\BITM (BASIS)\Final Project BITM\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Razor.dll
+G:\BITM (BASIS)\Final Project BITM\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.WebPages.Deployment.dll
+G:\BITM (BASIS)\Final Project BITM\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.WebPages.dll
+G:\BITM (BASIS)\Final Project BITM\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.WebPages.Razor.dll
+G:\BITM (BASIS)\Final Project BITM\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\WebGrease.dll
+G:\BITM (BASIS)\Final Project BITM\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Antlr3.Runtime.pdb
+G:\BITM (BASIS)\Final Project BITM\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\EntityFramework.xml
+G:\BITM (BASIS)\Final Project BITM\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\EntityFramework.SqlServer.xml
+G:\BITM (BASIS)\Final Project BITM\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.AspNet.Identity.Core.xml
+G:\BITM (BASIS)\Final Project BITM\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\BITM (BASIS)\Final Project BITM\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\BITM (BASIS)\Final Project BITM\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.xml
+G:\BITM (BASIS)\Final Project BITM\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\BITM (BASIS)\Final Project BITM\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.xml
+G:\BITM (BASIS)\Final Project BITM\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.Cookies.xml
+G:\BITM (BASIS)\Final Project BITM\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.Facebook.xml
+G:\BITM (BASIS)\Final Project BITM\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.Google.xml
+G:\BITM (BASIS)\Final Project BITM\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\BITM (BASIS)\Final Project BITM\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.OAuth.xml
+G:\BITM (BASIS)\Final Project BITM\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.Twitter.xml
+G:\BITM (BASIS)\Final Project BITM\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Newtonsoft.Json.xml
+G:\BITM (BASIS)\Final Project BITM\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Helpers.xml
+G:\BITM (BASIS)\Final Project BITM\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Mvc.xml
+G:\BITM (BASIS)\Final Project BITM\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Razor.xml
+G:\BITM (BASIS)\Final Project BITM\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.WebPages.xml
+G:\BITM (BASIS)\Final Project BITM\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.WebPages.Deployment.xml
+G:\BITM (BASIS)\Final Project BITM\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.WebPages.Razor.xml
+G:\BITM (BASIS)\Final Project BITM\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Optimization.xml
+G:\BITM (BASIS)\Final Project BITM\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.csprojResolveAssemblyReference.cache
+G:\BITM (BASIS)\Final Project BITM\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.dll
+G:\BITM (BASIS)\Final Project BITM\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.pdb
+D:\ASP.NET\ASP.NET BITM\Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\UniversityManagementSystem.dll.config
+D:\ASP.NET\ASP.NET BITM\Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\UniversityManagementSystem.dll
+D:\ASP.NET\ASP.NET BITM\Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\UniversityManagementSystem.pdb
+D:\ASP.NET\ASP.NET BITM\Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Antlr3.Runtime.dll
+D:\ASP.NET\ASP.NET BITM\Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\EntityFramework.dll
+D:\ASP.NET\ASP.NET BITM\Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\EntityFramework.SqlServer.dll
+D:\ASP.NET\ASP.NET BITM\Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\GridMvc.dll
+D:\ASP.NET\ASP.NET BITM\Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.AspNet.Identity.Core.dll
+D:\ASP.NET\ASP.NET BITM\Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\ASP.NET\ASP.NET BITM\Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\ASP.NET\ASP.NET BITM\Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.dll
+D:\ASP.NET\ASP.NET BITM\Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\ASP.NET\ASP.NET BITM\Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.Cookies.dll
+D:\ASP.NET\ASP.NET BITM\Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.dll
+D:\ASP.NET\ASP.NET BITM\Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.Facebook.dll
+D:\ASP.NET\ASP.NET BITM\Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.Google.dll
+D:\ASP.NET\ASP.NET BITM\Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\ASP.NET\ASP.NET BITM\Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.OAuth.dll
+D:\ASP.NET\ASP.NET BITM\Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.Twitter.dll
+D:\ASP.NET\ASP.NET BITM\Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Web.Infrastructure.dll
+D:\ASP.NET\ASP.NET BITM\Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Newtonsoft.Json.dll
+D:\ASP.NET\ASP.NET BITM\Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Owin.dll
+D:\ASP.NET\ASP.NET BITM\Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Helpers.dll
+D:\ASP.NET\ASP.NET BITM\Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Mvc.dll
+D:\ASP.NET\ASP.NET BITM\Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Optimization.dll
+D:\ASP.NET\ASP.NET BITM\Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Razor.dll
+D:\ASP.NET\ASP.NET BITM\Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.WebPages.Deployment.dll
+D:\ASP.NET\ASP.NET BITM\Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.WebPages.dll
+D:\ASP.NET\ASP.NET BITM\Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.WebPages.Razor.dll
+D:\ASP.NET\ASP.NET BITM\Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\WebGrease.dll
+D:\ASP.NET\ASP.NET BITM\Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Antlr3.Runtime.pdb
+D:\ASP.NET\ASP.NET BITM\Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\EntityFramework.xml
+D:\ASP.NET\ASP.NET BITM\Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\EntityFramework.SqlServer.xml
+D:\ASP.NET\ASP.NET BITM\Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.AspNet.Identity.Core.xml
+D:\ASP.NET\ASP.NET BITM\Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\ASP.NET\ASP.NET BITM\Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\ASP.NET\ASP.NET BITM\Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.xml
+D:\ASP.NET\ASP.NET BITM\Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\ASP.NET\ASP.NET BITM\Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.xml
+D:\ASP.NET\ASP.NET BITM\Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.Cookies.xml
+D:\ASP.NET\ASP.NET BITM\Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.Facebook.xml
+D:\ASP.NET\ASP.NET BITM\Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.Google.xml
+D:\ASP.NET\ASP.NET BITM\Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\ASP.NET\ASP.NET BITM\Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.OAuth.xml
+D:\ASP.NET\ASP.NET BITM\Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.Twitter.xml
+D:\ASP.NET\ASP.NET BITM\Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Newtonsoft.Json.xml
+D:\ASP.NET\ASP.NET BITM\Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Helpers.xml
+D:\ASP.NET\ASP.NET BITM\Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Mvc.xml
+D:\ASP.NET\ASP.NET BITM\Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Razor.xml
+D:\ASP.NET\ASP.NET BITM\Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.WebPages.xml
+D:\ASP.NET\ASP.NET BITM\Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.WebPages.Deployment.xml
+D:\ASP.NET\ASP.NET BITM\Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.WebPages.Razor.xml
+D:\ASP.NET\ASP.NET BITM\Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Optimization.xml
+D:\ASP.NET\ASP.NET BITM\Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.csprojResolveAssemblyReference.cache
+D:\ASP.NET\ASP.NET BITM\Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.dll
+D:\ASP.NET\ASP.NET BITM\Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.pdb
+D:\ASP.NET\ASP.NET BITM\Final Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\UniversityManagementSystem.dll.config
+D:\ASP.NET\ASP.NET BITM\Final Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\UniversityManagementSystem.dll
+D:\ASP.NET\ASP.NET BITM\Final Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\UniversityManagementSystem.pdb
+D:\ASP.NET\ASP.NET BITM\Final Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Antlr3.Runtime.dll
+D:\ASP.NET\ASP.NET BITM\Final Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\EntityFramework.dll
+D:\ASP.NET\ASP.NET BITM\Final Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\EntityFramework.SqlServer.dll
+D:\ASP.NET\ASP.NET BITM\Final Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\GridMvc.dll
+D:\ASP.NET\ASP.NET BITM\Final Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.AspNet.Identity.Core.dll
+D:\ASP.NET\ASP.NET BITM\Final Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\ASP.NET\ASP.NET BITM\Final Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\ASP.NET\ASP.NET BITM\Final Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.dll
+D:\ASP.NET\ASP.NET BITM\Final Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\ASP.NET\ASP.NET BITM\Final Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.Cookies.dll
+D:\ASP.NET\ASP.NET BITM\Final Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.dll
+D:\ASP.NET\ASP.NET BITM\Final Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.Facebook.dll
+D:\ASP.NET\ASP.NET BITM\Final Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.Google.dll
+D:\ASP.NET\ASP.NET BITM\Final Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\ASP.NET\ASP.NET BITM\Final Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.OAuth.dll
+D:\ASP.NET\ASP.NET BITM\Final Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.Twitter.dll
+D:\ASP.NET\ASP.NET BITM\Final Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Web.Infrastructure.dll
+D:\ASP.NET\ASP.NET BITM\Final Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Newtonsoft.Json.dll
+D:\ASP.NET\ASP.NET BITM\Final Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Owin.dll
+D:\ASP.NET\ASP.NET BITM\Final Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Helpers.dll
+D:\ASP.NET\ASP.NET BITM\Final Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Mvc.dll
+D:\ASP.NET\ASP.NET BITM\Final Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Optimization.dll
+D:\ASP.NET\ASP.NET BITM\Final Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Razor.dll
+D:\ASP.NET\ASP.NET BITM\Final Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.WebPages.Deployment.dll
+D:\ASP.NET\ASP.NET BITM\Final Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.WebPages.dll
+D:\ASP.NET\ASP.NET BITM\Final Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.WebPages.Razor.dll
+D:\ASP.NET\ASP.NET BITM\Final Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\WebGrease.dll
+D:\ASP.NET\ASP.NET BITM\Final Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Antlr3.Runtime.pdb
+D:\ASP.NET\ASP.NET BITM\Final Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\EntityFramework.xml
+D:\ASP.NET\ASP.NET BITM\Final Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\EntityFramework.SqlServer.xml
+D:\ASP.NET\ASP.NET BITM\Final Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.AspNet.Identity.Core.xml
+D:\ASP.NET\ASP.NET BITM\Final Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\ASP.NET\ASP.NET BITM\Final Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\ASP.NET\ASP.NET BITM\Final Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.xml
+D:\ASP.NET\ASP.NET BITM\Final Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\ASP.NET\ASP.NET BITM\Final Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.xml
+D:\ASP.NET\ASP.NET BITM\Final Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.Cookies.xml
+D:\ASP.NET\ASP.NET BITM\Final Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.Facebook.xml
+D:\ASP.NET\ASP.NET BITM\Final Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.Google.xml
+D:\ASP.NET\ASP.NET BITM\Final Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\ASP.NET\ASP.NET BITM\Final Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.OAuth.xml
+D:\ASP.NET\ASP.NET BITM\Final Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Owin.Security.Twitter.xml
+D:\ASP.NET\ASP.NET BITM\Final Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\Newtonsoft.Json.xml
+D:\ASP.NET\ASP.NET BITM\Final Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Helpers.xml
+D:\ASP.NET\ASP.NET BITM\Final Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Mvc.xml
+D:\ASP.NET\ASP.NET BITM\Final Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Razor.xml
+D:\ASP.NET\ASP.NET BITM\Final Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.WebPages.xml
+D:\ASP.NET\ASP.NET BITM\Final Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.WebPages.Deployment.xml
+D:\ASP.NET\ASP.NET BITM\Final Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.WebPages.Razor.xml
+D:\ASP.NET\ASP.NET BITM\Final Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Optimization.xml
+D:\ASP.NET\ASP.NET BITM\Final Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.csprojResolveAssemblyReference.cache
+D:\ASP.NET\ASP.NET BITM\Final Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.dll
+D:\ASP.NET\ASP.NET BITM\Final Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.pdb
+D:\ASP.NET\ASP.NET BITM\Final Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.csproj.CoreCompileInputs.cache
+D:\ASP.NET\ASP.NET BITM\Final Project\Team-Void\VoidUniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.csproj.CopyComplete

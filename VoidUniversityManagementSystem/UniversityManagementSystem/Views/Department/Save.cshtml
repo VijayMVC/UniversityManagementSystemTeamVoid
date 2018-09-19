@@ -1,0 +1,64 @@
+﻿@model UniversityManagementSystem.Models.Department
+
+@{
+    ViewBag.Title = "Add Department";
+}
+
+<script src="~/Scripts/jquery-2.2.0.js"></script>
+<script src="~/Scripts/jquery.validate.js"></script>
+<script src="~/Scripts/jquery.validate.unobtrusive.js"></script>
+<link href="~/Content/css/style.css" rel="stylesheet" />
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-6 col-md-offset-3">
+            <hr/>
+            <h2 class="header-2"> Add Department</h2>
+            <hr/>
+            @using (Html.BeginForm())
+            {
+                if (ViewBag.Mgs != null)
+                {
+                    <p style="font-size: 30px; color: blue">@ViewBag.Mgs</p>
+                }
+                @Html.AntiForgeryToken()
+
+                <div class="form-horizontal">
+
+
+
+                    @Html.ValidationSummary(true)
+
+                    <div class="form-group">
+                        @Html.LabelFor(model => model.Code, new {@class = "control-label col-md-2"})
+                        <div class="col-md-10">
+                            @Html.EditorFor(model => model.Code)
+                            @Html.ValidationMessageFor(model => model.Code)
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        @Html.LabelFor(model => model.Name, new {@class = "control-label col-md-2"})
+                        <div class="col-md-10">
+                            @Html.EditorFor(model => model.Name)
+                            @Html.ValidationMessageFor(model => model.Name)
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <div class="col-md-offset-2 col-md-10">
+                            <input type="submit" value="Save" class="btn btn-default" style="margin-top: 20px; margin-left: 150px; background-color: saddlebrown; color: white" />
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+</div>
+
+  
+
+
+
+
+
